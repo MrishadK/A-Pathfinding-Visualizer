@@ -1,8 +1,7 @@
 # A* Pathfinding Algorithm Visualizer
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Pygame](https://img.shields.io/badge/Library-Pygame-yellow.svg)
-![Status](https://img.shields.io/badge/Status-Completed-green.svg)
 
 A Python-based interactive application that visualizes the **A* (A-Star) Pathfinding Algorithm** in action. This project demonstrates complex logic, heuristic analysis, and data structure implementation (Priority Queues) to determine the shortest path between two nodes on a grid.
 
